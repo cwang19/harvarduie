@@ -1,0 +1,25 @@
+{
+  "name": "harvarduie",
+  "version": "1.0.0",
+  "description": "Harvard Undergraduates for Inclusion in Economics",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwang19/harvarduie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwang19/harvarduie/issues"
+  },
+  "homepage": "https://cwang19.github.io/harvarduie"
+}
